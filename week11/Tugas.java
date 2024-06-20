@@ -22,7 +22,7 @@ public class Tugas {
 //            insertBuku("CARA INVESTASI DITAHUN 2024", 2024, 100, 32); // 100 stok buku // 32 id Penulis
 //
 //            updateBuku(10, "Cara Mengelola UANG dengan tepat", 2024, 15, 32); // 10 id Buku
-//            updatePenulis(32, "Romy Nur W D"); // 32 idPenulis
+//            updatePenulis(32, "Mico Aditya V"); // 32 idPenulis
 //
 //            deleteBuku(10); // 10 id Buku
 //            deletePenulis(32); // 32 id Penulis
