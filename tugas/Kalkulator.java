@@ -1,4 +1,4 @@
-Package tugas;
+package tugas;
 
 import javax.swing.*;
 import java.awt.*;
